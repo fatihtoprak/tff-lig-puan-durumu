@@ -6,3 +6,5 @@ PHP cURL, preg_match fonksiyonunu kullanarak Türkiye Futbol Federasyonu(http://
 [Demo](http://www.fahrettinaksoy.com.tr/demo/league-scores.php)
 
 Diğer Liglere Ait Puan Durumlarını Çekmek İçin cleanBring Fonksiyonuna tff.org URL Adrsi ve Adetini Tanımlayarak Kullanabilirsiniz.
+
+[Fahrettin Aksoy](http://www.fahrettinaksoy.com.tr/blog/lig-puan-durum-botu-yapimi/)
