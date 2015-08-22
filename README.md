@@ -1,5 +1,5 @@
-# Türkiye Futbol Federasyonu Lig Puan Durumu
-Türkiye Futbol Federasyonu Lig Puan Durumu
+# Spor Toto Süper Lig Puan Durumu
+Türkiye Futbol Federasyonu Spor Toto Süper Lig Puan Durumu
 
 PHP cURL, preg_match fonksiyonunu kullanarak Türkiye Futbol Federasyonu(http://www.tff.org/) sitesinden Spor Toto Süper Lig Puan Durum Sonuçları verileri çekme imknanı sağlar.
 
